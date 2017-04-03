@@ -1,0 +1,139 @@
+Script started on Mon 03 Apr 2017 19:33:36 AEST
+root@SysAdmin2017:/home/Mercury# poweroffsyncthing 127.0.0.1:8384[Kapt-get install syncthing[11Pupdateecho "deb http://apt.syncthing.net/ syncthing reelease" | tee /etc/apt/sources.list.d/syncthing.list[Acurl -s https://syncthing.net/release-key.txt | apt-key add -[K[C[5@sudo [C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[27Papt-get install curl
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6Pupdateinstall curl[11Pifup eth010apt-get install curl[6Pupdateinstall curlcurl -s https://syncthing.net/release-key.txt |  sudo apt-key add -[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[27Papt-get install curl
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6Pupdateinstall curlcurl -s https://syncthing.net/release-key.txt |  sudo apt-key add -[C[5P[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho "deb http://apt.syncthing.net/ syncthing release" | tee /etc/apt/sources.list.d/syncthing.list[Aapt-get update[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cinstall syncthing[16Psyncthing 127.0.0.1:8384[K[K[1Ppoweroff[Kpoweroffsyncthing 127.0.0.1:8384[Kapt-get install syncthing[11Pupdateecho "deb http://apt.syncthing.net/ syncthing reelease" | tee /etc/apt/sources.list.d/syncthing.list[Acurl -s https://syncthing.net/release-key.txt | apt-key add -[K[C[5@sudo [C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[27Papt-get install curl
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6Pupdateinstall curl[11Pifup eth01apt-get install curl[11Pifup eth1apt-get install curl[11Pifup eth0apt-get install curl[12Ppowerofftouch .resizeconsolels -a[K[K /dev/sd*[Krm Install ls[Kmkdir /media/usb[7Pls /media[1Padf[Klsapt-get clean[4P./Installifup eth0p eth0down eth10[2P./Installscp leighb@172.16.206.1:/media/leighb/Work/CSC34412/Virtual/Install .[A[C[C[C[C[C[C[C[C[C[C[C[Cman gcc[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cifup eth1[4@config[C[C[C[C[C[5Ppoweroff[2Pls -latouch .resizeconsoleless /usr/local/bin/resizecons s -la[Kapt-get clean[7Prebootapt-get upgrade[1Pdate[5Pifup eth0apt-get updatevi /etc/apt/sources.list[8Phostnameapt/sources.list[10Papt-get update[5Pifup eth0apt-get updategrade[9Prebootapt-get clean[7Pls -laess /usr/local/bin/resizecons [11Ptouch .resizeconsolels -la[Kpoweroffifconfig eth1[4Pup[C[C[C[C[C[2Pman gccscp leighb@172.16.206.1:/media/leighb/Work/CSC34412/Virtual/Install .[A[C[C[C[C[C[C[C[C[C[C[C[C./Install[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cifdown eth01[1Pupp eth0[1P eth0./Installapt-get cleanls[Kdfls /medaiamkdir /media/usbls[Krm Install ls[K /dev/sd*[K -atouch .resizeconsole[12Ppoweroffapt-get install curl[11Pifup eth0apt-get install curl[11Pifup eth1apt-get install curl[11Pifup eth10apt-get install curl[6Pupdateinstall curlcurl -s https://syncthing.net/release-key.txt |  sudo apt-key add -[C[5P[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho "deb http://apt.syncthing.net/ syncthing release" | tee /etc/apt/sources.list.d/syncthing.list[Aapt-get update[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cinstall syncthing[16Psyncthing 127.0.0.1:8384[K[K[1Ppoweroff[Kpoweroffsyncthing 127.0.0.1:8384[Kapt-get install syncthing[11Pupdateecho "deb http://apt.syncthing.net/ syncthing reelease" | tee /etc/apt/sources.list.d/syncthing.list[Acurl -s https://syncthing.net/release-key.txt | apt-key add -[K[C[5@sudo [C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[27Papt-get install curl
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6Pupdateinstall curl[11Pifup eth01apt-get install curl[11Pifup eth10apt-get install curl[6Pupdateinstall curlcurl -s https://syncthing.net/release-key.txt |  sudo apt-key add -[C[5P[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho "deb http://apt.syncthing.net/ syncthing release" | tee /etc/apt/sources.list.d/syncthing.list[Aapt-get update[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cinstall syncthing[16Psyncthing 127.0.0.1:8384[K[K[1Ppoweroff[Kapt-get install git
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+git is already the newest version.
+0 upgraded, 0 newly installed, 0 to remove and 94 not upgraded.
+root@SysAdmin2017:/home/Mercury# git init
+Initialized empty Git repository in /home/Mercury/.git/
+root@SysAdmin2017:/home/Mercury# g[Kgi[K[Kcd Mercury[C[1Percurymercury[C[C[C[C[C[C6/ercury[C[C[C[C[C[C[K[K[K[K[K[K[K
+root@SysAdmin2017:/home/Mercury/mercury6# cd mercury6[3Pgit init
+Reinitialized existing Git repository in /home/Mercury/mercury6/.git/
+root@SysAdmin2017:/home/Mercury/mercury6# git initcd mercury6[3Pgit init[Kgit remote add origin https://github.c om/smart-sparl[Kk/-home-Mercurymercury6.git
+fatal: remote origin already exists.
+root@SysAdmin2017:/home/Mercury/mercury6# git push -u origin master
+Username for 'https://github.com': smart-spark
+Password for 'https://smart-spark@github.com': 
+Branch master set up to track remote branch master from origin.
+Everything up-to-date
+root@SysAdmin2017:/home/Mercury/mercury6# git checkout branch[K[K[K[K[K[K-b branch3
+Switched to a new branch 'branch3'
+root@SysAdmin2017:/home/Mercury/mercury6# git pull[K[K[K[K[K[K[K[Kgit checkout -b branch3push -u origin masterremote add origin https://github.coom/smart-spark/-home-Mercurymercury6.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://github.com[1P/smart-spark/-home-Mercurymercury6.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://github.com/[1Psmart-spark/-home-Mercurymercury6.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://github.com/s[1Pmart-spark/-home-Mercurymercury6.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://github.com/sm[1Part-spark/-home-Mercurymercury6.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://github.com/sma[1Prt-spark/-home-Mercurymercury6.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://github.com/smar[1Pt-spark/-home-Mercurymercury6.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://github.com/smart[1P-spark/-home-Mercurymercury6.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://github.com/smart-[1Pspark/-home-Mercurymercury6.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://github.com/smart-s[1Ppark/-home-Mercurymercury6.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://github.com/smart-sp[1Park/-home-Mercurymercury6.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://github.com/smart-spa[1Prk/-home-Mercurymercury6.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://github.com/smart-spar[1Pk/-home-Mercurymercury6.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://github.com/smart-spark[1P/-home-Mercurymercury6.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://github.com/smart-spark/[1P-home-Mercurymercury6.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://github.com/smart-spark/-[1Phome-Mercurymercury6.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://github.com/smart-spark/-h[1Pome-Mercurymercury6.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://github.com/smart-spark/-ho[1Pme-Mercurymercury6.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttps://github.com/smart-spark/-hom[1Pe-Mercurymercury6.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cphttps://github.com/smart-spark/-home-Mercurymercury6.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cuhttps://github.com/smart-spark/-home-Mercurymercury6.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Clhttps://github.com/smart-spark/-home-Mercurymercury6.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Clhttps://github.com/smart-spark/-home-Mercurymercury6.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C https://github.com/smart-spark/-home-Mercurymercury6.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+From https://github.com/smart-spark/-home-Mercurymercury6
+ * branch            HEAD       -> FETCH_HEAD
+Already up-to-date.
+root@SysAdmin2017:/home/Mercury/mercury6# git pull https://github.com/smart-sparkk/-home-Mercurymercury6.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C https://github.com/smart-spark/[1P-home-Mercurymercury6.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C https://github.com/smart-spark/-[1Phome-Mercurymercury6.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C https://github.com/smart-spark/-h[1Pome-Mercurymercury6.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C https://github.com/smart-spark/-ho[1Pme-Mercurymercury6.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cf https://github.com/smart-spark/-home-Mercurymercury6.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ce https://github.com/smart-spark/-home-Mercurymercury6.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ct https://github.com/smart-spark/-home-Mercurymercury6.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cc https://github.com/smart-spark/-home-Mercurymercury6.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ch https://github.com/smart-spark/-home-Mercurymercury6.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+From https://github.com/smart-spark/-home-Mercurymercury6
+ * branch            HEAD       -> FETCH_HEAD
+root@SysAdmin2017:/home/Mercury/mercury6# git checkout b[K[K[K[K[K[K[K[K[K[K[K[K[K[Kls
+text.txt
+root@SysAdmin2017:/home/Mercury/mercury6# vim text.txt
+[2;1H▽[6n[2;1H  [1;1H[1;30r[?25h[?8c[?25h[?0c[27m[24m[0m[H[J[?25l[?1c[30;1H"text.txt" 1L, 14C[1;1Hfffgfgghsmahj
+[1m[34m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [24;1H~                                                                               [25;1H~                                                                               [26;1H~                                                                               [27;1H~                                                                               [28;1H~                                                                               [29;1H~                                                                               [0m[30;63H1,1[11CAll[1;1H[?25h[?0c[?25l[?1c[30;1H[1m-- INSERT --[0m[30;13H[K[30;63H1,1[11CAll[1;1H[?25h[?0c[?25l[?1cnfffgfgghsmahj[30;65H2[1;2H[?25h[?0c[?25l[?1chfffgfgghsmahj[30;65H3[1;3H[?25h[?0c[?25l[?1cffffgfgghsmahj[30;65H4[1;4H[?25h[?0c[?25l[?1ccfffgfgghsmahj[30;65H5[1;5H[?25h[?0c[?25l[?1chfffgfgghsmahj[30;65H6[1;6H[?25h[?0c[?25l[?1cffffgfgghsmahj[30;65H7[1;7H[?25h[?0c[?25l[?1cjfffgfgghsmahj[30;65H8[1;8H[?25h[?0c[30;1H[K[1;7H[?25l[?1c[30;63H1,7[11CAll[1;7H[?25h[?0c[?25l[?1c[30;63H[K[30;1H:[?25h[?0cw[?25l[?1c[?25h[?0cq[?25l[?1c[?25h[?0c[?25l[?1c"text.txt" 1L, 21C written[?25h[?0c
+root@SysAdmin2017:/home/Mercury/mercury6# cd [K[K[Kgit checkout master
+error: Your local changes to the following files would be overwritten by checkout:
+	text.txt
+Please, commit your changes or stash them before you can switch branches.
+Aborting
+root@SysAdmin2017:/home/Mercury/mercury6# git checkout master[7Pvim text.txtgit checkout master[K[K[K[K[K[Kbranch3
+M	text.txt
+Already on 'branch3'
+root@SysAdmin2017:/home/Mercury/mercury6# git add text.txt
+root@SysAdmin2017:/home/Mercury/mercury6# git add text.txt[1Ptext.txt[1Ptext.txt[1Ptext.txt[1Ptext.txtctext.txtotext.txtmtext.txtmtext.txtitext.txt[Ctext.txt text.txt-text.txtntext.txt[1Ptext.txtmtext.txt text.txt"text.txt[C[C[C[C[C[C[C[C"
+[branch3 1c9ee8c] text.txt
+ Committer: root <root@SysAdmin>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+root@SysAdmin2017:/home/Mercury/mercury6# git commit -m "text.txt"[8Padd text.txtcheckout branch3[1Pmaster
+Switched to branch 'master'
+Your branch is up-to-date with 'origin/master'.
+root@SysAdmin2017:/home/Mercury/mercury6# go[Kit log
+[33mcommit 4ef3ec9eae4d4065fd649cd9a5f1d396ff603a65[m[m
+Author: root <root@SysAdmin>[m
+Date:   Mon Apr 3 19:17:35 2017 +1000[m
+[m
+    first commit[m
+[Kroot@SysAdmin2017:/home/Mercury/mercury6# git checkout branch2
+Switched to branch 'branch2'
+root@SysAdmin2017:/home/Mercury/mercury6# git checkout branch2log[K
+[33mcommit 715a54abf92bd3de7cfeb195666244070f6ccd85[m[m
+Author: root <root@SysAdmin>[m
+Date:   Mon Apr 3 19:27:44 2017 +1000[m
+[m
+    2 commit[m
+[m
+[33mcommit 4ef3ec9eae4d4065fd649cd9a5f1d396ff603a65[m[m
+Author: root <root@SysAdmin>[m
+Date:   Mon Apr 3 19:17:35 2017 +1000[m
+[m
+    first commit[m
+[Kroot@SysAdmin2017:/home/Mercury/mercury6# git checkout master
+Switched to branch 'master'
+Your branch is up-to-date with 'origin/master'.
+root@SysAdmin2017:/home/Mercury/mercury6# git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+root@SysAdmin2017:/home/Mercury/mercury6# git checkout branch3
+Switched to branch 'branch3'
+root@SysAdmin2017:/home/Mercury/mercury6# git checkout branch3[10Pstatus
+On branch branch3
+nothing to commit, working directory clean
+root@SysAdmin2017:/home/Mercury/mercury6# git checkout brac[Knch2
+Switched to branch 'branch2'
+root@SysAdmin2017:/home/Mercury/mercury6# git checkout branch2[10Pstatus
+On branch branch2
+nothing to commit, working directory clean
+root@SysAdmin2017:/home/Mercury/mercury6# vim new.txt
+[2;1H▽[6n[2;1H  [1;1H[1;30r[?25h[?8c[?25h[?0c[27m[24m[0m[H[J[?25l[?1c[30;1H"new.txt" [New File][2;1H[1m[34m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [24;1H~                                                                               [25;1H~                                                                               [26;1H~                                                                               [27;1H~                                                                               [28;1H~                                                                               [29;1H~                                                                               [0m[30;63H0,0-1[9CAll[1;1H[?25h[?0c[?25l[?1c[30;1H[1m-- INSERT --[0m[30;13H[K[30;63H0,1[11CAll[1;1H[?25h[?0c[?25l[?1cg[30;63H1,2[1;2H[?25h[?0c[?25l[?1ch[30;65H3[1;3H[?25h[?0c[?25l[?1ch[30;65H4[1;4H[?25h[?0c[30;1H[K[1;3H[?25l[?1c[30;63H1,3[11CAll[1;3H[?25h[?0c[?25l[?1c[30;63H[K[30;1H:[?25h[?0cw[?25l[?1c[?25h[?0cq[?25l[?1c[?25h[?0c[?25l[?1c"new.txt" [New] 1L, 4C written[?25h[?0c
+root@SysAdmin2017:/home/Mercury/mercury6# git add new.txt 
+root@SysAdmin2017:/home/Mercury/mercury6# git status
+On branch branch2
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	[32mnew file:   new.txt[m
+
+root@SysAdmin2017:/home/Mercury/mercury6# git commit -m "nw\[K[Kew.txt"
+[branch2 fd78759] new.txt
+ Committer: root <root@SysAdmin>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+)
+ create mode 100644 new.txt
+root@SysAdmin2017:/home/Mercury/mercury6# 
+root@SysAdmin2017:/home/Mercury/mercury6# exit
+exit
+
+Script done on Mon 03 Apr 2017 19:59:50 AEST
